@@ -1,3 +1,4 @@
+http://www.fx-plc.com/upload/201307/031600018929.pdf
 https://github.com/akavel/rsrc
 
 在windows上执行有关系统设置命令的时候需要管理员权限才能操作，比如修改网卡的禁用、启用状态。双击执行是不能正确执行命令的，只有右键以管理员身份运行才能成功。
